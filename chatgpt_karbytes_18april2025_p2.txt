@@ -18,7 +18,6 @@ karbytes:
 
 I notice that the Tor app (on my Android device) only plays looping audio tracks (for a particular web application I made and am personally hosting) if only that sound player app browser tab is open. A few days ago, the sound player app was able to play continuously in the background via the Android Tor app. For some reason, it is not continuously playing today (unless the tab generating sound is visibly in the foreground).
 
-
 ChatGPT:
 
 It sounds like the Tor Browser on Android recently changed its background media playback behavior, likely due to an update in the underlying Firefox codebase (which Tor Browser is built on). This can result in previously working audio (e.g., HTML5 <audio loop autoplay> elements in your hosted app) pausing when the tab is in the background or the screen is off.
@@ -80,7 +79,6 @@ Let me know, and I can suggest a precise fix or workaround based on your current
 karbytes:
 
 I appear to have found a "kludgy" workaround which enables the sound files in my dark web application to keep playing via the Tor browser app even while the Tor browser app is running in the background and when the phone is locked: selecting multiple sound tracks from the drop-down list of various sound files (which have varying durations). I think that playing multiple sound tracks with different durations causes the Tor app to not reset the sound player web page by essentially creating a "macro song" with a virtually infinite duration. 
-
 
 ChatGPT:
 
