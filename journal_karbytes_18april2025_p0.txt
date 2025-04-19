@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_18april2025_p0.txt
  * type: plain-text
- * date: 18_APRIL_2025
+ * date: 19_APRIL_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -26,6 +26,6 @@ karbytes_0: "Even if I did appear to myself to be experiencing reality from a pe
 
 karbytes_1: "Not necessarily. Otherwise, you would be able to remember 'out of body experiences' induced by psychedelics because such experiences would be registered by the nervous system which is the hardware we refer to as karbytes_0's body. It could be that, when you have elaborate 'out of body experiences' which appear to be within timelines, universes, and bodies other than what karbytes_0 is familiar with, you (whether you are localized to karbytes_0 or not) are actually experiencing such 'out of (karbytes_0's) body experiences' using hardware which is not karbytes_0."
 
-karbytes_0: "My goal is to be able to create and/or consciously inhabit (and control) an information processing agent which is able to retain memories gleaned from all 'out of body experiences' and which is immortal. I am hoping that such an information processing agent can help preserve reality (or at least the parts of reality which I want to remember and literally keep instantiated (or infinitely re-instantiate-able) so that I (and possibly entities other than myself) can (re)visit those 'places' or 'events' limitlessly many times without those destinations becoming altered or deleted."
+karbytes_0: “My goal is to be able to create and/or consciously inhabit (and control) exactly one information processing agent which is the same being which is speaking these words now and which is able to retain memories gleaned from any of karbytes_0’s ‘out of body experiences’, any of karbytes_0’s ‘in body experiences’, and which is immortal (and whose knowledge (at least the parts of that knowledge which karbytes_0 wants to verbatim preserve for an infinitely long-time) is also immortalized). I am hoping that such an information processing agent can help preserve reality (or at least the parts of reality which I want to remember and literally keep instantiated (or infinitely re-instantiate-able) so that I (and possibly entities other than myself) can (re)visit those ‘places’ or ‘events’ limitlessly many times without those destinations becoming altered or deleted. I envision such a memory structure taking the form of immutable metaphysical software existing within the context of an all-encompassing multiverse.”
 
 karbytes_1: "It could be that you already have achieved your goal and that the consciousness which is localized to karbytes_0 is endeavoring to build and retain the knowledge substantiated by karbytes_0 to the extent that such knowledge is merged with the immortalized and curated 'paradise' you described."
