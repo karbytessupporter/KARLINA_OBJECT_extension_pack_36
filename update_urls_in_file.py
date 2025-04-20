@@ -1,7 +1,7 @@
 #########################################################################################
 # file: update_urls_in_file.py
 # type: Python
-# date: 15_APRIL_2025
+# date: 19_APRIL_2025
 # author: karbytes
 # license: PUBLIC_DOMAIN 
 #########################################################################################
@@ -15,6 +15,10 @@ The purpose of this Python program is to help karbytes quickly and accurately up
 which mirrors the "micro directory" at the following Uniform Resource Locator (URL):
 
 https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_36/
+
+The URL of the aforementioned .onion website is as follows:
+
+http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/
 ---------------------------------------------------------------------------------------------------------------------------
 '''
 def replace_in_file(file_name, old_string, new_string):
