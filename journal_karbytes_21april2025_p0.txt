@@ -1,0 +1,17 @@
+/**
+ * file: journal_karbytes_21april2025_p0.txt
+ * type: plain-text
+ * date: 21_APRIL_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Within the past two days (as of 3:00PM Pacific Standard Time on 21_APRIL_2025), I burnt four M_DISC copies of karbytes as karbytes was configured as of 11:59PM Pacific Standard Time on 20_APRIL_2025 and labeled each of those copies karbytes2025_9. I decided to manually append the word beta to the end of the Sharpie-marker-written labels on each of those discs due to the fact that I decided, retrospectively, to update the version of karbytes named karbytes2025_9 one last time before officially sealing off that version to further changes (and subsequently burning four new M_DISCs with the new official finalized version of karbytes2025_9 with the new M_DISCs I am awaiting the delivery of within the next 48 hours). 
+
+The previous paragraph in this file pertains to the fact that I (i.e. karbytes) decided to add some files to the karbytes-owned GitHub repository named KARLINA_OBJECT_extension_pack_36 and to remove some files from the karbytes-owned GitHub repository named KARLINA_OBJECT_extension_pack_37.
+
+I expect karbytes2025_9 to be in its finalized state at 11:59PM Pacific Standard Time on 21_APRIL_2025. 
+
+Implied by what I said in the previous sentence is the fact that I expect the aforementioned GitHub repository named KARLINA_OBJECT_extension_pack_36 to be in its finalized state at 11:59PM Pacific Standard Time on 21_APRIL_2025. For more information on which partitions of karbytes are finalized and which partitions of karbytes are open to future edits, visit the following web page:
+
+https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2025_9/
