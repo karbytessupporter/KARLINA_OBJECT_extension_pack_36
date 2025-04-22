@@ -35,3 +35,5 @@ primary_values_web_page: https://karbytesforlifeblog.wordpress.com/karbytes_prim
 secondary_values_web_page: https://karbytesforlifeblog.wordpress.com/karbytes_10_september_2024/
 
 I am strongly considering removing self-esteem from that list of values and possibly adding a new value to the secondary values hierarchical list. I also thought of removing freedom from the list of primary values given that I think free-will is almost entirely (if not entirely) illusory.
+
+I also have considered removing innovation from the list of primary values due to the fact that, in order for innovation to be "necessary" or "worthwhile", there must be some kind of existing unsolved problem for me to be attempting to solve in an innovative manner (and it could be that there eventually comes to an end of all unsolved problems or an end to my attempting to solve what I think are existing unsolved problems due to the fact that I think that attempting to solve such problems are what I deem to be a waste of my resources or because I think such problems are fundamentally unsolvable).
